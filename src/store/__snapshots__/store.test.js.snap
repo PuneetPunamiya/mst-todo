@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`creates a store to match snapshot 1`] = `
+Object {
+  "todos": Object {
+    "1": Object {
+      "done": true,
+      "name": "Eat a cake",
+    },
+  },
+  "users": Object {},
+}
+`;
